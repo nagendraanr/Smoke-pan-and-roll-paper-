@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "name":" king Cigarate",
+        "price": 25,
+        "image": "image/c1.png"
+    },
+    {
+        "id": 2,
+        "name":"club",
+        "price": 35,
+        "image": "image/c2.jpeg"
+    },
+    {
+        "id": 3,
+        "name":"Gold Flake",
+        "price": 39,
+        "image": "image/c3.jpg"
+    },
+    {
+        "id": 4,
+        "name":"camel",
+        "price": 25,
+        "image": "image/c4.png"
+    },
+    {
+        "id": 5,
+        "name":" pall mall blue",
+        "price": 69,
+        "image": "image/c55.jpeg"
+    },
+    {
+        "id": 6,
+        "name":"Marlboro ",
+        "price":89 ,
+        "image": "image/c66.webp"
+    },
+    {
+        "id": 7,
+        "name":" L&M",
+        "price": 65,
+        "image": "image/c77.jpg"
+    },
+    {
+        "id": 8,
+        "name":"Gauloises",
+        "price":85 ,
+        "image": "image/c88.jpg"
+    },
+    {
+        "id": 9,
+        "name":" chacholate paan",
+        "price":99,
+        "image": "image/chacho pan.jpg"
+    },
+    {
+        "id": 10,
+        "name":"fire paan",
+        "price": 110,
+        "image": "image/fire paan.png"
+    },
+    {
+        "id": 11,
+        "name":"ice paan",
+        "price": 129,
+        "image": "image/ice paan.jpg"
+    },
+    {
+        "id": 12,
+        "name":"kesar paan",
+        "price": 149,
+        "image": "image/kesar-paan.png"
+    },
+    {
+        "id": 13,
+        "name":"kulfi paan",
+        "price":165,
+        "image": "image/kulfi paan.jpg"
+    },
+    {
+        "id": 14,
+        "name":"laddu paan",
+        "price": 179,
+        "image": "image/ladddu pan.jpg"
+    },
+    {
+        "id": 15,
+        "name":"mango paan",
+        "price": 199,
+        "image": "image/mango paan.jpg"
+    },
+    {
+        "id": 16,
+        "name":"metha paan",
+        "price": 129,
+        "image": "image/metha paan.jpg"
+    },
+    {
+        "id": 17,
+        "name":"Raw roll paper",
+        "price": 155,
+        "image": "image/c.jpg"
+    },
+    {
+        "id": 18,
+        "name":"Elements roll paper",
+        "price": 105,
+        "image": "image/r2.jpg"
+    },
+    {
+        "id": 19,
+        "name":"Glaze roll paper",
+        "price": 169,
+        "image": "image/r3.jpeg"
+    },
+    {
+        "id": 20,
+        "name":"Regular roll paper",
+        "price": 189,
+        "image": "image/r4.png"
+    },
+    {
+        "id": 21,
+        "name":"Rizla roll paper",
+        "price": 199,
+        "image": "image/r5.jpg"
+    },
+    {
+        "id": 22,
+        "name":"Bambu roll paper",
+        "price":109,
+        "image": "image/r6.jpg"
+    },
+    {
+        "id": 23,
+        "name":"Tube Roll paper",
+        "price":155,
+        "image": "image/r7.jpg"
+    },
+    {
+        "id": 24,
+        "name":"Ultra thin roll paper    ",
+        "price":111,
+        "image": "image/r8.jpg"
+    }
+    
+]
